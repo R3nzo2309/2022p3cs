@@ -1,0 +1,16 @@
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\bin\Debug\net5.0\time and day.exe
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\bin\Debug\net5.0\time and day.deps.json
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\bin\Debug\net5.0\time and day.runtimeconfig.json
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\bin\Debug\net5.0\time and day.runtimeconfig.dev.json
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\bin\Debug\net5.0\time and day.dll
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\bin\Debug\net5.0\ref\time and day.dll
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\bin\Debug\net5.0\time and day.pdb
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\obj\Debug\net5.0\time and day.csproj.AssemblyReference.cache
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\obj\Debug\net5.0\time and day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\obj\Debug\net5.0\time and day.AssemblyInfoInputs.cache
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\obj\Debug\net5.0\time and day.AssemblyInfo.cs
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\obj\Debug\net5.0\time and day.csproj.CoreCompileInputs.cache
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\obj\Debug\net5.0\time and day.dll
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\obj\Debug\net5.0\ref\time and day.dll
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\obj\Debug\net5.0\time and day.pdb
+C:\Users\reeme\MA\periode 1.3\c#\les01\time and day\obj\Debug\net5.0\time and day.genruntimeconfig.cache
