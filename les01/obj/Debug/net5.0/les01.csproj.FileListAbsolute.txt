@@ -1,0 +1,16 @@
+C:\Users\reeme\MA\periode 1.3\c#\les01\bin\Debug\net5.0\les01.exe
+C:\Users\reeme\MA\periode 1.3\c#\les01\bin\Debug\net5.0\les01.deps.json
+C:\Users\reeme\MA\periode 1.3\c#\les01\bin\Debug\net5.0\les01.runtimeconfig.json
+C:\Users\reeme\MA\periode 1.3\c#\les01\bin\Debug\net5.0\les01.runtimeconfig.dev.json
+C:\Users\reeme\MA\periode 1.3\c#\les01\bin\Debug\net5.0\les01.dll
+C:\Users\reeme\MA\periode 1.3\c#\les01\bin\Debug\net5.0\ref\les01.dll
+C:\Users\reeme\MA\periode 1.3\c#\les01\bin\Debug\net5.0\les01.pdb
+C:\Users\reeme\MA\periode 1.3\c#\les01\obj\Debug\net5.0\les01.csproj.AssemblyReference.cache
+C:\Users\reeme\MA\periode 1.3\c#\les01\obj\Debug\net5.0\les01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reeme\MA\periode 1.3\c#\les01\obj\Debug\net5.0\les01.AssemblyInfoInputs.cache
+C:\Users\reeme\MA\periode 1.3\c#\les01\obj\Debug\net5.0\les01.AssemblyInfo.cs
+C:\Users\reeme\MA\periode 1.3\c#\les01\obj\Debug\net5.0\les01.csproj.CoreCompileInputs.cache
+C:\Users\reeme\MA\periode 1.3\c#\les01\obj\Debug\net5.0\les01.dll
+C:\Users\reeme\MA\periode 1.3\c#\les01\obj\Debug\net5.0\ref\les01.dll
+C:\Users\reeme\MA\periode 1.3\c#\les01\obj\Debug\net5.0\les01.pdb
+C:\Users\reeme\MA\periode 1.3\c#\les01\obj\Debug\net5.0\les01.genruntimeconfig.cache
